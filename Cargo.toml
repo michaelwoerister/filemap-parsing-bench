@@ -1,0 +1,8 @@
+[package]
+name = "filemap-parsing-bench"
+version = "0.1.0"
+authors = ["Michael Woerister <michaelwoerister@posteo>"]
+
+[dependencies]
+unicode-width = "0.1.4"
+memchr = "2.0.1"
